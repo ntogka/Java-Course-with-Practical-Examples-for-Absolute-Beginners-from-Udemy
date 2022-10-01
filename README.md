@@ -2,8 +2,6 @@
 
 Java Course with Practical Examples for Absolute Beginners is created with the goal to teach you Java in a clear and interesting way. Most of the books, tutorials or even courses don't give you the knowledge needed to get a job as a developer.
 
-With over 40,000 students enrolled and having one of the best ratings, this Java course can give you all the knowledge needed for developers.
-
 
 This course is a great choice for you if want to:
 
@@ -74,51 +72,10 @@ The whole course is full of useful tips and tricks that can be very helpful if y
 Besides these, there are also practices that challenge your knowledge after every major concept and at the end of all levels. Those practices not only help you to test what you have learnt but it's also a great way to make you understand and remember more of the features and concepts. On top of these, these life-like practices are very similar to the tasks that you would get as a Java developer.
 
 
-Currently, this course has 3 separate levels: beginner, intermediate, advanced. Which will be extended to 5 levels with expert and hero levels. They build upon each other and they contain more and more complex features of Java.
+This course has 3 separate levels: beginner, intermediate, advanced. Which will be extended to 5 levels with expert and hero levels. They build upon each other and they contain more and more complex features of Java.
 
 
-Is the course updated? Will it be updated when Java is updated?
 
-Java is changing and evolving based on industrial needs. This course keeps up to date with frequent updates as a new java update is released. So you can make sure that whenever you watch this course you'll see the most recent content and version of Java.
-
-But generally, it doesn't matter whether you would like to learn Java 8 or Java 11 or even Java 15 because this course teaches you the most most recent features of Java that are also used at the big tech companies(Most of the companies are still using Java 8 and started switching to Java 11 recently).
-
-You might find the recent updates in the appendix sections but sometimes it's blended into the core of the course.
-
-
-Moreover, you'll get all the updates for free. So you need to buy this course only once and you'll have lifetime access to it with all the future updates.
-
-
-With this course, you'll always get up-to-date and useful Java content in this course!
-
-
-What if you are stuck or you get an error? Can you ask for help?
-
-Absolutely, one of the main features of this Java programming course is that I provide full support, so all your questions will be answered. It doesn't matter whether you have a small issue in your code or you ask for a code review or you need career advice. I'll respond to you as quick as possible.
-
-
-Besides these I want you to learn as much as you can and don't let you be stuck for days due to an issue or a question that stop you from making further progress.
-
-
-My motto, that you'll hear many times in the course: "If you have any questions, feel free to ask!"
-
-
-Are you hesitant? No worries! You can try it out risk-free!
-
-Besides the free preview lectures, this source comes with a 30-day money-back guarantee so if you are not satisfied with what you get in the course you can get a 100% refund and no questions asked.
-
-
-So, you can end up buying a great course and potentially get a job as a developer or you can try the course and if you're not satisfied you can get all your money back.
-
-Basically, you can't lose on buying this course.
-
-
-Shall we start it? Enroll today!
-
-Add this course to your cart and start learning Java today! You can also just take this course to see whether it's really for your taste.
-
-
-See you inside the course!
 What you’ll learn
 
     Learn the core Java skills needed to apply for Java developer positions
