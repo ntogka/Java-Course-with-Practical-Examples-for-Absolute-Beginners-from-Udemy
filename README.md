@@ -1,8 +1,3 @@
-# My-Udemy-Online-Course "Java Course with Practical Examples for Absolute Beginners"
-
-Java Course with Practical Examples for Absolute Beginners is created with the goal to teach you Java in a clear and interesting way. Most of the books, tutorials or even courses don't give you the knowledge needed to get a job as a developer.
-
-
 This course is a great choice for you if want to:
 
     get the skills needed to be hired as a Java developer
